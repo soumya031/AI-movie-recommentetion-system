@@ -13,7 +13,7 @@ An AI-powered movie recommendation system built with React and TypeScript. This 
 
 1. **Clone the repository:**
    ```bash
-   git clone <https://github.com/soumya031/AI-movie-recommentetion-system/edit/main/README.md>
+   git clone https://github.com/soumya031/AI-movie-recommentetion-system/edit/main/README.md
    cd "AI movie recommentetion system"
    ```
 2. **Install dependencies:**
