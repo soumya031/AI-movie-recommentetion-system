@@ -1,0 +1,5 @@
+{
+  "name": "CineSugg: AI Movie Recommender",
+  "description": "An intelligent movie recommendation system powered by the Gemini API. Describe the type of movie you're in the mood for, and get personalized suggestions complete with synopses and genres.",
+  "requestFramePermissions": []
+}
